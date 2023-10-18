@@ -6,7 +6,7 @@
 💡 Lifelong learner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/marcospjunior/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/marcosp.junior)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/marcospjunior)
 ## 🚀 Skills
 
 - Automation
