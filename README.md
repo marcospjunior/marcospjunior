@@ -1,16 +1,33 @@
-### Hi there 👋
+# Howdy, I'm Marcos Junior! 🚀
 
-<!--
-**marcospjunior/marcospjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor's in IT
+🤖 Automation enthusiast
+🛠️ Tech stack: Python, Puppet, Ansible, ServiceNow
+💡 Lifelong learner
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/marcospjunior/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/marcosp.junior)
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Automation
+- IT Ops
+- General Dev
+- SQL Wizardry
+- Cloud Adventurer
+
+## 🌱 Learning
+
+- [DevOps Roadmap](https://roadmap.sh/devops)
+- Lean Six Sigma - Green Belt
+
+## 💬 Let's connect
+
+Let's chat tech, share ideas, and connect!
+
+[LinkedIn](https://www.linkedin.com/in/marcospjunior)
+
+## ⚡ Fun fact
+
+Did you know, I hail from the same hometown as Neymar Jr. and the creator of the beloved Brazilian comics, Mauricio de Souza? Think about it, I might be a super dev talent to your network 😜
+
+Thanks for dropping by! 😎
